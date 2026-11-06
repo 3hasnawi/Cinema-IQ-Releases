@@ -1,0 +1,44 @@
+{
+  "name": "Cinema iQ",
+  "identifier": "com.3hasnawi.cinemaiq.source",
+  "sourceURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/altstore.json",
+  "subtitle": "إصدارات Cinema iQ للآيفون",
+  "description": "المصدر الرسمي لنسخ Cinema iQ للآيفون. يتطلب iOS 18 أو أحدث وتوقيع التطبيق عند التثبيت.",
+  "website": "https://github.com/3hasnawi/Cinema-IQ-Releases",
+  "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png",
+  "tintColor": "F59E0B",
+  "apps": [
+    {
+      "name": "Cinema iQ",
+      "bundleIdentifier": "com.cinemaplus.rebuilt.ios",
+      "developerName": "3hasnawi",
+      "subtitle": "سينمانا وفودو على الآيفون",
+      "localizedDescription": "تطبيق Cinema iQ للآيفون لتصفح المحتوى ومشاهدته من المصادر المدعومة، مع المفضلة وسجل المشاهدة واستكمال الفيديو والمزامنة والكاست. يجب الاتصال بالشبكة الداعمة لمصدر المحتوى. ملف IPA غير موقّع؛ التثبيت يحتاج التوقيع من أداة التثبيت الخاصة بك.",
+      "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png",
+      "tintColor": "F59E0B",
+      "versions": [
+        {
+          "version": "0.3.0",
+          "buildVersion": "3",
+          "date": "2026-11-06T11:50:42Z",
+          "localizedDescription": "إضافة Google Cast مع تغيير الجودة واختيار ترجمات WebVTT المتوافقة وحفظ تقدم المشاهدة. نسخة تجريبية؛ الكاست لم يُختبر على جهاز فعلي بعد.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.0/Cinema-iQ-iPhone-0.3.0-unsigned.ipa",
+          "size": 4684846,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "للعثور على أجهزة Chromecast وتشغيل الفيديو عليها."
+        }
+      },
+      "version": "0.3.0",
+      "versionDate": "2026-11-06T11:50:42Z",
+      "versionDescription": "إضافة Google Cast مع تغيير الجودة واختيار ترجمات WebVTT المتوافقة وحفظ تقدم المشاهدة. نسخة تجريبية؛ الكاست لم يُختبر على جهاز فعلي بعد.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.0/Cinema-iQ-iPhone-0.3.0-unsigned.ipa",
+      "size": 4684846
+    }
+  ],
+  "news": []
+}
