@@ -18,6 +18,15 @@
       "tintColor": "F59E0B",
       "versions": [
         {
+          "version": "0.3.1",
+          "buildVersion": "4",
+          "date": "2026-11-13T13:35:34Z",
+          "localizedDescription": "دعم iPhone وiPad بملف واحد، مع تخطيط متجاوب وقائمة جانبية على iPad وتحسين مقاسات التفاصيل والمشغّل والترجمة. نسخة تجريبية؛ لم تُختبر على iPad حقيقي ولم تنجح مجموعة اختبارات الواجهة كاملة بصورة مستقرة.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.1/Cinema-iQ-iPhone-iPad-0.3.1-unsigned.ipa",
+          "size": 4913098,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.0",
           "buildVersion": "3",
           "date": "2026-11-06T11:50:42Z",
@@ -33,11 +42,11 @@
           "NSLocalNetworkUsageDescription": "للعثور على أجهزة Chromecast وتشغيل الفيديو عليها."
         }
       },
-      "version": "0.3.0",
-      "versionDate": "2026-11-06T11:50:42Z",
-      "versionDescription": "إضافة Google Cast مع تغيير الجودة واختيار ترجمات WebVTT المتوافقة وحفظ تقدم المشاهدة. نسخة تجريبية؛ الكاست لم يُختبر على جهاز فعلي بعد.",
-      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.0/Cinema-iQ-iPhone-0.3.0-unsigned.ipa",
-      "size": 4684846
+      "version": "0.3.1",
+      "versionDate": "2026-11-13T13:35:34Z",
+      "versionDescription": "دعم iPhone وiPad بملف واحد، مع تخطيط متجاوب وقائمة جانبية على iPad وتحسين مقاسات التفاصيل والمشغّل والترجمة. نسخة تجريبية؛ لم تُختبر على iPad حقيقي ولم تنجح مجموعة اختبارات الواجهة كاملة بصورة مستقرة.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.1/Cinema-iQ-iPhone-iPad-0.3.1-unsigned.ipa",
+      "size": 4913098
     }
   ],
   "news": []
