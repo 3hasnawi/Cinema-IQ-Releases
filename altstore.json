@@ -18,6 +18,15 @@
       "tintColor": "F59E0B",
       "versions": [
         {
+          "version": "0.3.2",
+          "buildVersion": "5",
+          "date": "2026-11-14T12:02:04Z",
+          "localizedDescription": "إضافة IPTV: روابط M3U وحسابات Xtream، مع البحث والتصنيفات والتشغيل الداخلي وحفظ المصادر محليًا ودعم HTTP بموافقة لكل مصدر. اجتازت اختبارات المحاكيات؛ لم تُختبر على أجهزة فعلية أو اشتراك حقيقي.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.2/Cinema-iQ-iPhone-iPad-0.3.2-unsigned.ipa",
+          "size": 5175666,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.1",
           "buildVersion": "4",
           "date": "2026-11-13T13:35:34Z",
@@ -39,14 +48,14 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "للعثور على أجهزة Chromecast وتشغيل الفيديو عليها."
+          "NSLocalNetworkUsageDescription": "للعثور على أجهزة Chromecast والاتصال بمصادر IPTV داخل شبكتك."
         }
       },
-      "version": "0.3.1",
-      "versionDate": "2026-11-13T13:35:34Z",
-      "versionDescription": "دعم iPhone وiPad بملف واحد، مع تخطيط متجاوب وقائمة جانبية على iPad وتحسين مقاسات التفاصيل والمشغّل والترجمة. نسخة تجريبية؛ لم تُختبر على iPad حقيقي ولم تنجح مجموعة اختبارات الواجهة كاملة بصورة مستقرة.",
-      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.1/Cinema-iQ-iPhone-iPad-0.3.1-unsigned.ipa",
-      "size": 4913098
+      "version": "0.3.2",
+      "versionDate": "2026-11-14T12:02:04Z",
+      "versionDescription": "إضافة IPTV: روابط M3U وحسابات Xtream، مع البحث والتصنيفات والتشغيل الداخلي وحفظ المصادر محليًا ودعم HTTP بموافقة لكل مصدر. اجتازت اختبارات المحاكيات؛ لم تُختبر على أجهزة فعلية أو اشتراك حقيقي.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.2/Cinema-iQ-iPhone-iPad-0.3.2-unsigned.ipa",
+      "size": 5175666
     }
   ],
   "news": []
