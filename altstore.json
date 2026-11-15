@@ -18,6 +18,15 @@
       "tintColor": "F59E0B",
       "versions": [
         {
+          "version": "0.3.4",
+          "buildVersion": "7",
+          "date": "2026-11-15T08:02:20Z",
+          "localizedDescription": "دعم صيغ فيديو وصوت إضافية عبر محرك التوافق الموسّع، والحفاظ على صورة الإيقاف وتحسين تبديل القنوات وخيارات الجودة والصوت والترجمة. اختُبر على المحاكيات بملفات اختبار؛ الأجهزة والاشتراكات الفعلية لم تُختبر.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.4/Cinema-iQ-iPhone-iPad-0.3.4-unsigned.ipa",
+          "size": 55783427,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.3",
           "buildVersion": "6",
           "date": "2026-11-14T20:33:46Z",
@@ -60,11 +69,11 @@
           "NSLocalNetworkUsageDescription": "للعثور على أجهزة Chromecast والاتصال بمصادر IPTV داخل شبكتك."
         }
       },
-      "version": "0.3.3",
-      "versionDate": "2026-11-14T20:33:46Z",
-      "versionDescription": "دليل IPTV عائم مع البحث والتصنيفات والتبديل بين القنوات، وخيارات الصوت والترجمة والجودة وإضافة تفضيل أعلى جودة متاحة، مع تحسين التحميل والتدوير. اجتازت اختبارات المحاكيات؛ لم تُختبر على أجهزة فعلية أو اشتراك حقيقي.",
-      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.3/Cinema-iQ-iPhone-iPad-0.3.3-unsigned.ipa",
-      "size": 5262962
+      "version": "0.3.4",
+      "versionDate": "2026-11-15T08:02:20Z",
+      "versionDescription": "دعم صيغ فيديو وصوت إضافية عبر محرك التوافق الموسّع، والحفاظ على صورة الإيقاف وتحسين تبديل القنوات وخيارات الجودة والصوت والترجمة. اختُبر على المحاكيات بملفات اختبار؛ الأجهزة والاشتراكات الفعلية لم تُختبر.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.4/Cinema-iQ-iPhone-iPad-0.3.4-unsigned.ipa",
+      "size": 55783427
     }
   ],
   "news": []
