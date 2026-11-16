@@ -13,10 +13,19 @@
       "bundleIdentifier": "com.cinemaplus.rebuilt.ios",
       "developerName": "3hasnawi",
       "subtitle": "سينمانا وفودو على الآيفون والآيباد",
-      "localizedDescription": "تطبيق Cinema iQ للآيفون والآيباد لتصفح المحتوى ومشاهدته من المصادر المدعومة، مع المفضلة وسجل المشاهدة واستكمال الفيديو والمزامنة والكاست. يجب الاتصال بالشبكة الداعمة لمصدر المحتوى. ملف IPA غير موقّع؛ التثبيت يحتاج التوقيع من أداة التثبيت الخاصة بك.",
+      "localizedDescription": "تطبيق Cinema iQ للآيفون والآيباد لتصفح المحتوى ومشاهدته من المصادر المدعومة، مع المفضلة وسجل المشاهدة واستكمال الفيديو والمزامنة. يجب الاتصال بالشبكة الداعمة لمصدر المحتوى. ملف IPA غير موقّع؛ التثبيت يحتاج التوقيع من أداة التثبيت الخاصة بك.",
       "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png",
       "tintColor": "F59E0B",
       "versions": [
+        {
+          "version": "0.3.5",
+          "buildVersion": "8",
+          "date": "2026-11-16T01:24:06Z",
+          "localizedDescription": "إصلاح إظهار أدوات مشغّل الأفلام باللمس، وإزالة Google Cast، وتحسين IPTV بمعاينة مستمرة وتصنيفات ومفضلة وقنوات أخيرة، مع تحسين البحث والتدوير على الآيفون والآيباد. اختُبرت الواجهات على المحاكيات؛ اختبار مشغّل Apple الكامل لم يكتمل، ولم تُختبر أجهزة أو اشتراكات فعلية.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.5/Cinema-iQ-iPhone-iPad-0.3.5-unsigned.ipa",
+          "size": 52892607,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "0.3.4",
           "buildVersion": "7",
@@ -66,14 +75,14 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSLocalNetworkUsageDescription": "للعثور على أجهزة Chromecast والاتصال بمصادر IPTV داخل شبكتك."
+          "NSLocalNetworkUsageDescription": "للاتصال بمصادر IPTV داخل شبكتك."
         }
       },
-      "version": "0.3.4",
-      "versionDate": "2026-11-15T08:02:20Z",
-      "versionDescription": "دعم صيغ فيديو وصوت إضافية عبر محرك التوافق الموسّع، والحفاظ على صورة الإيقاف وتحسين تبديل القنوات وخيارات الجودة والصوت والترجمة. اختُبر على المحاكيات بملفات اختبار؛ الأجهزة والاشتراكات الفعلية لم تُختبر.",
-      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.4/Cinema-iQ-iPhone-iPad-0.3.4-unsigned.ipa",
-      "size": 55783427
+      "version": "0.3.5",
+      "versionDate": "2026-11-16T01:24:06Z",
+      "versionDescription": "إصلاح إظهار أدوات مشغّل الأفلام باللمس، وإزالة Google Cast، وتحسين IPTV بمعاينة مستمرة وتصنيفات ومفضلة وقنوات أخيرة، مع تحسين البحث والتدوير على الآيفون والآيباد. اختُبرت الواجهات على المحاكيات؛ اختبار مشغّل Apple الكامل لم يكتمل، ولم تُختبر أجهزة أو اشتراكات فعلية.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.5/Cinema-iQ-iPhone-iPad-0.3.5-unsigned.ipa",
+      "size": 52892607
     }
   ],
   "news": []
