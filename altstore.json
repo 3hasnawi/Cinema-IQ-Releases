@@ -5,7 +5,7 @@
   "subtitle": "إصدارات Cinema iQ للآيفون والآيباد",
   "description": "المصدر الرسمي لنسخ Cinema iQ للآيفون والآيباد. يتطلب iOS أو iPadOS 18 أو أحدث وتوقيع التطبيق عند التثبيت.",
   "website": "https://github.com/3hasnawi/Cinema-IQ-Releases",
-  "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png",
+  "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png?v=0.3.7",
   "tintColor": "F59E0B",
   "apps": [
     {
@@ -14,9 +14,18 @@
       "developerName": "3hasnawi",
       "subtitle": "سينمانا وفودو على الآيفون والآيباد",
       "localizedDescription": "تطبيق Cinema iQ للآيفون والآيباد لتصفح المحتوى ومشاهدته من المصادر المدعومة، مع المفضلة وسجل المشاهدة واستكمال الفيديو والمزامنة. يجب الاتصال بالشبكة الداعمة لمصدر المحتوى. ملف IPA غير موقّع؛ التثبيت يحتاج التوقيع من أداة التثبيت الخاصة بك.",
-      "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png",
+      "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png?v=0.3.7",
       "tintColor": "F59E0B",
       "versions": [
+        {
+          "version": "0.3.7",
+          "buildVersion": "10",
+          "date": "2026-11-23T03:57:25Z",
+          "localizedDescription": "واجهة سينمائية للعمل المميز، ومتابعة المشاهدة مع التقدّم والوقت المتبقي، وأيقونة جديدة. افتح التلفزيون من شريط التنقّل، والحساب والإعدادات من الملف الشخصي. تتكيّف قائمة الآيباد الجانبية مع عرض النافذة.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.7/Cinema-iQ-iPhone-iPad-0.3.7-unsigned.ipa",
+          "size": 55759000,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "0.3.6",
           "buildVersion": "9",
@@ -87,11 +96,11 @@
           "NSLocalNetworkUsageDescription": "للاتصال بمصادر IPTV داخل شبكتك."
         }
       },
-      "version": "0.3.6",
-      "versionDate": "2026-11-18T16:42:05Z",
-      "versionDescription": "نقل تحسينات Apple TV إلى الآيفون والآيباد: بوسترات محسّنة، وبطاقات حلقات، وجودة تلقائية، وتحسين أدوات المشغل والإغلاق وحفظ موضع المشاهدة. تحسين قسم التلفزيون والتخزين واستعادة آخر قناة ومعلومات البرامج والقوائم العائمة، وضبط التالي/تم وإغلاق الكيبورد. اجتازت الحالات المختبرة على المحاكيات؛ الأجهزة الفعلية والبث والاشتراكات الحية لم تُختبر.",
-      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.6/Cinema-iQ-iPhone-iPad-0.3.6-unsigned.ipa",
-      "size": 53277856
+      "version": "0.3.7",
+      "versionDate": "2026-11-23T03:57:25Z",
+      "versionDescription": "واجهة سينمائية للعمل المميز، ومتابعة المشاهدة مع التقدّم والوقت المتبقي، وأيقونة جديدة. افتح التلفزيون من شريط التنقّل، والحساب والإعدادات من الملف الشخصي. تتكيّف قائمة الآيباد الجانبية مع عرض النافذة.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.7/Cinema-iQ-iPhone-iPad-0.3.7-unsigned.ipa",
+      "size": 55759000
     }
   ],
   "news": []
