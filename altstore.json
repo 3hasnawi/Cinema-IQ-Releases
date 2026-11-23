@@ -18,6 +18,15 @@
       "tintColor": "F59E0B",
       "versions": [
         {
+          "version": "0.3.8",
+          "buildVersion": "11",
+          "date": "2026-11-23T08:44:36Z",
+          "localizedDescription": "يعرض البوستر اسم العمل الأصلي وبياناته من TMDB ويتكيّف مع شاشة الآيفون والآيباد. تظهر آخر مشاهدة أولاً، وتُزال الأعمال المكتملة تلقائياً. يتيح المشغّل تخطي المقدمة والانتقال للحلقة التالية عند الشارة باستخدام توقيتات IntroDB عند توفرها.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.8/Cinema-iQ-iPhone-iPad-0.3.8-unsigned.ipa",
+          "size": 55800059,
+          "minOSVersion": "18.0"
+        },
+        {
           "version": "0.3.7",
           "buildVersion": "10",
           "date": "2026-11-23T03:57:25Z",
@@ -96,11 +105,11 @@
           "NSLocalNetworkUsageDescription": "للاتصال بمصادر IPTV داخل شبكتك."
         }
       },
-      "version": "0.3.7",
-      "versionDate": "2026-11-23T03:57:25Z",
-      "versionDescription": "واجهة سينمائية للعمل المميز، ومتابعة المشاهدة مع التقدّم والوقت المتبقي، وأيقونة جديدة. افتح التلفزيون من شريط التنقّل، والحساب والإعدادات من الملف الشخصي. تتكيّف قائمة الآيباد الجانبية مع عرض النافذة.",
-      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.7/Cinema-iQ-iPhone-iPad-0.3.7-unsigned.ipa",
-      "size": 55759000
+      "version": "0.3.8",
+      "versionDate": "2026-11-23T08:44:36Z",
+      "versionDescription": "يعرض البوستر اسم العمل الأصلي وبياناته من TMDB ويتكيّف مع شاشة الآيفون والآيباد. تظهر آخر مشاهدة أولاً، وتُزال الأعمال المكتملة تلقائياً. يتيح المشغّل تخطي المقدمة والانتقال للحلقة التالية عند الشارة باستخدام توقيتات IntroDB عند توفرها.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.8/Cinema-iQ-iPhone-iPad-0.3.8-unsigned.ipa",
+      "size": 55800059
     }
   ],
   "news": []
