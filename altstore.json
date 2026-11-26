@@ -5,7 +5,7 @@
   "subtitle": "إصدارات Cinema iQ للآيفون والآيباد",
   "description": "المصدر الرسمي لنسخ Cinema iQ للآيفون والآيباد. يتطلب iOS أو iPadOS 18 أو أحدث وتوقيع التطبيق عند التثبيت.",
   "website": "https://github.com/3hasnawi/Cinema-IQ-Releases",
-  "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png?v=0.3.7",
+  "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png?v=0.3.9",
   "tintColor": "F59E0B",
   "apps": [
     {
@@ -14,9 +14,18 @@
       "developerName": "3hasnawi",
       "subtitle": "سينمانا وفودو على الآيفون والآيباد",
       "localizedDescription": "تطبيق Cinema iQ للآيفون والآيباد لتصفح المحتوى ومشاهدته من المصادر المدعومة، مع المفضلة وسجل المشاهدة واستكمال الفيديو والمزامنة. يجب الاتصال بالشبكة الداعمة لمصدر المحتوى. ملف IPA غير موقّع؛ التثبيت يحتاج التوقيع من أداة التثبيت الخاصة بك.",
-      "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png?v=0.3.7",
+      "iconURL": "https://raw.githubusercontent.com/3hasnawi/Cinema-IQ-Releases/main/icons/cinema-iq.png?v=0.3.9",
       "tintColor": "F59E0B",
       "versions": [
+        {
+          "version": "0.3.9",
+          "buildVersion": "12",
+          "date": "2026-11-26T06:15:46Z",
+          "localizedDescription": "بوسترات TMDB لبطاقات الأعمال، وبوستر بعرض الشاشة في الوضع العمودي، وتقييمات TMDB للحلقات مع الرجوع إلى OMDb عند الحاجة. أيقونة جديدة وتحميل أسرع للصور المخزّنة، ويتوقف بث التلفزيون عند مغادرة تبويبه.",
+          "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.9/Cinema-iQ-iPhone-iPad-0.3.9-unsigned.ipa",
+          "size": 53396058,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "0.3.8",
           "buildVersion": "11",
@@ -105,11 +114,11 @@
           "NSLocalNetworkUsageDescription": "للاتصال بمصادر IPTV داخل شبكتك."
         }
       },
-      "version": "0.3.8",
-      "versionDate": "2026-11-23T08:44:36Z",
-      "versionDescription": "يعرض البوستر اسم العمل الأصلي وبياناته من TMDB ويتكيّف مع شاشة الآيفون والآيباد. تظهر آخر مشاهدة أولاً، وتُزال الأعمال المكتملة تلقائياً. يتيح المشغّل تخطي المقدمة والانتقال للحلقة التالية عند الشارة باستخدام توقيتات IntroDB عند توفرها.",
-      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.8/Cinema-iQ-iPhone-iPad-0.3.8-unsigned.ipa",
-      "size": 55800059
+      "version": "0.3.9",
+      "versionDate": "2026-11-26T06:15:46Z",
+      "versionDescription": "بوسترات TMDB لبطاقات الأعمال، وبوستر بعرض الشاشة في الوضع العمودي، وتقييمات TMDB للحلقات مع الرجوع إلى OMDb عند الحاجة. أيقونة جديدة وتحميل أسرع للصور المخزّنة، ويتوقف بث التلفزيون عند مغادرة تبويبه.",
+      "downloadURL": "https://github.com/3hasnawi/Cinema-IQ-Releases/releases/download/ios-v0.3.9/Cinema-iQ-iPhone-iPad-0.3.9-unsigned.ipa",
+      "size": 53396058
     }
   ],
   "news": []
